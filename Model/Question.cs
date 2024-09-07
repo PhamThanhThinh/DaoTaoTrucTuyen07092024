@@ -20,6 +20,6 @@ namespace Model
         public string Answer { get; set; }
         public string Type { get; set; }
         public Nullable<long> ProductID { get; set; }
-        public Nullable<bool> Status { get; set; }
+        public bool Status { get; set; }
     }
 }

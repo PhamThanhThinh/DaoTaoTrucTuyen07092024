@@ -10,7 +10,7 @@
         <EntityTypeShape EntityType="DaoTaoTrucTuyen6Model.ProductCategory" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DaoTaoTrucTuyen6Model.Question" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DaoTaoTrucTuyen6Model.Result" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="DaoTaoTrucTuyen6Model.User" Width="1.5" PointX="6.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DaoTaoTrucTuyen6Model.User" Width="1.5" PointX="6.75" PointY="5" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

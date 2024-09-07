@@ -59,9 +59,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dao\CommentDao.cs" />
     <Compile Include="Dao\ExamDao.cs" />
     <Compile Include="Dao\ProductCategoryDao.cs" />
     <Compile Include="Dao\ProductDao.cs" />
+    <Compile Include="Dao\QuestionDao.cs" />
     <Compile Include="Dao\UserDao.cs" />
     <Compile Include="Exam.cs">
       <DependentUpon>MyDatabaseModel.tt</DependentUpon>

@@ -527,9 +527,11 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
     <Compile Include="Areas\Admin\Controllers\BaseController.cs" />
+    <Compile Include="Areas\Admin\Controllers\ExamController.cs" />
     <Compile Include="Areas\Admin\Controllers\HomeController.cs" />
     <Compile Include="Areas\Admin\Controllers\LoginController.cs" />
     <Compile Include="Areas\Admin\Controllers\ProductController.cs" />
+    <Compile Include="Areas\Admin\Controllers\QuestionController.cs" />
     <Compile Include="Areas\Admin\Controllers\UserController.cs" />
     <Compile Include="Areas\Models\LoginModel.cs" />
     <Compile Include="Common\CommonConstants.cs" />
@@ -711,6 +713,8 @@
     <Content Include="assets\thuvienchogiaodiennguoidung\vendor\font-awesome\webfonts\fa-solid-900.woff" />
     <Content Include="assets\thuvienchogiaodiennguoidung\vendor\font-awesome\webfonts\fa-solid-900.woff2" />
     <Content Include="assets\thuvienchogiaodiennguoidung\vendor\font-awesome\webfonts\fa-solid-900d41d.eot" />
+    <Content Include="Areas\Admin\Views\Exam\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Question\Index.cshtml" />
     <None Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Shared\_TopMenu.cshtml" />

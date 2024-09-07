@@ -27,7 +27,7 @@ namespace Model
         public Nullable<short> Time { get; set; }
         public Nullable<short> TotalQuestion { get; set; }
         public string Type { get; set; }
-        public Nullable<bool> Status { get; set; }
+        public bool Status { get; set; }
         public string QuestionEssay { get; set; }
         public string UserList { get; set; }
         public string SoreList { get; set; }
